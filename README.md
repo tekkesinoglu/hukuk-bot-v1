@@ -21,7 +21,7 @@ Kütüphaneler:
 
 ## Kullanım
 
-1. `Hukuk_Bot_Projesi.ipynb` dosyasını Google Colab'da açın.
+1. `hukuk.ipynb` dosyasını Google Colab'da açın.
 2. Runtime türünü T4 GPU olarak ayarlayın.
 3. Hücreleri sırasıyla çalıştırın.
 4. `hukuk_asistani("sorunuz")` fonksiyonu ile test edebilirsiniz.
